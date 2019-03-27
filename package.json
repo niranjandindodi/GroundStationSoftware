@@ -1,0 +1,14 @@
+{
+  "name": "myfirstapp",
+  "version": "1.0.0",
+  "description": "First Desktop App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Niranjan D R",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^4.1.0"
+  }
+}
